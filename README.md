@@ -1,4 +1,4 @@
-# python-wardrope-app# WardrobeApp
+# WardrobeApp
 A Tkinter app that automates your closet and generates an outfit.
 
 ## Table of Contents

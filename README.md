@@ -2,7 +2,6 @@
 A Tkinter app that automates your closet and generates an outfit.
 
 ## Table of Contents
-* [Video](#Video)
 * [Technologies](#Technologies)
 * [Setup](#LocalSetup)
 * [ToDo](#ToDo)

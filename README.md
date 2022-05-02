@@ -8,10 +8,6 @@ A Tkinter app that automates your closet and generates an outfit.
 * [ToDo](#ToDo)
 * [Troubleshooting](#Troubleshooting)
 
-## Video
-Check out the youtube video for a step by step walk through 
-[Youtube Video]
-
 ## Technologies
 * [Tkinter]
 * [Pillow]
@@ -32,7 +28,6 @@ Check out the youtube video for a step by step walk through
 ## Troubleshooting
 * If your having issues with Pillow install pyobjc   
 
-   [Youtube Video]: <https://youtu.be/IrZ58M8BgcA>
    [Tkinter]: <http://effbot.org/tkinterbook/>
    [Pillow]: <https://pillow.readthedocs.io/en/stable/>
    [Playsound]: <https://pypi.org/project/playsound/>
